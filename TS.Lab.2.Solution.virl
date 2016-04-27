@@ -5299,7 +5299,6 @@ end</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
-    <node name="csr1000v-1" type="SIMPLE" subtype="CSR1000v" location="176,131"/>
     <connection dst="/virl:topology/virl:node[2]/virl:interface[8]" src="/virl:topology/virl:node[1]/virl:interface[8]"/>
     <connection dst="/virl:topology/virl:node[2]/virl:interface[9]" src="/virl:topology/virl:node[1]/virl:interface[9]"/>
     <connection dst="/virl:topology/virl:node[3]/virl:interface[10]" src="/virl:topology/virl:node[1]/virl:interface[10]"/>
